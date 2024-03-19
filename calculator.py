@@ -6,5 +6,5 @@ def subtract(a, b):
 def multifly(a,b):
   return a*b
 
-def divide(a,b):
+def divide_free(a,b):
   return a/b
